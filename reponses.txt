@@ -1,0 +1,5 @@
+a) git pull permet de récuperer et de fusionner , git fetch met à jour les références distantes sur le depot local sans modifier ces référenvces
+b)faire un git log  pour voir les différents commit, suivi d'un checkout suivi de l'id de la branche pour annuler les modifications locales non validés
+dans git
+c)supprimer une branche distante dans git git branch -r
+d)git log pour voir l'historique des modifications pour un fichier spécifié dans git
